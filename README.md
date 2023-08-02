@@ -9,3 +9,9 @@ if needed, type "space" between tokens
 
 A max heap to collect data of universities
 > enter condition to filter object
+
+# Maze
+
+Simulate Maze-Solving
+> can handle multi-goals  
+> track shortest path
