@@ -12,6 +12,6 @@ A max heap to collect data of universities
 
 # Maze
 
-Simulate Maze-Solving
+Simulate Maze-Solving, using DFS stratagy
 > can handle multi-goals  
 > track shortest path
