@@ -1,4 +1,3 @@
-// 10527114 ³¢¬`§ø 
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>

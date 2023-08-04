@@ -1,7 +1,3 @@
-// 10527114 ³¢¬`§ø 
-// 10442225 ¶À«FµØ 
-// 28²Õ 
-
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <cstdlib>
