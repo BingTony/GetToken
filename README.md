@@ -10,8 +10,22 @@ if needed, type "space" between tokens
 A max heap to collect data of universities
 > enter condition to filter object
 
+A min-max heap to collect data of universities
+> enter condition to filter object
+> Top-K maximums from min-max heap
+
 # Maze
 
 Simulate Maze-Solving, using DFS stratagy
 > can handle multi-goals  
 > track shortest path
+
+# PageReplacement
+
+A page replacement algorithm
+> First in First out
+> Least Recently Used
+> Most Frequently Used
+> Least Frequently Used
+> Additional Reference bits
+> Second Chance
