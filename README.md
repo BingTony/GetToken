@@ -1,3 +1,8 @@
+# ALU
+
+A ALU Multiplier in verilog, run on Modelsim
+> 32-bits AND, OR, ADD, SUB, SLT，以Full-Adder做起並以Ripple-Carry的進位方式連接32個1-Bit ALU Bit Slice，使之變為32-bits ALU。 
+
 # GetToken
 
 Get input token and turn into a binary tree,then print the tree
